@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔳 QR Code Generator (React)
 
 A modern, responsive QR Code Generator built with **React** and **Tailwind CSS**. Generate QR codes for:
@@ -53,13 +52,10 @@ A modern, responsive QR Code Generator built with **React** and **Tailwind CSS**
 - Lucide Icons
   
 
-
 ## 📜 License
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-Virbhadra Khobare
-GitHub | Portfolio
-=======
-# QR-Code-Generator
->>>>>>> f9ed271e0b6bbcba7c14ef2588dd4455d81f0274
+- Virbhadra Khobare
+- GitHub | Portfolio
+---
