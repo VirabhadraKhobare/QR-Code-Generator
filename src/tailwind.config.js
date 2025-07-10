@@ -1,10 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}", // this line is CRITICAL for Netlify + React
+    "./src/**/*.{js,jsx,ts,tsx}", // Required for React + Tailwind
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#2563eb',
+        secondary: '#f3f4f6',
+      },
+    },
   },
   plugins: [],
 };
