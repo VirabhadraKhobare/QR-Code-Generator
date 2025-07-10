@@ -2,11 +2,10 @@
   "name": "qr-code-generator",
   "version": "1.0.0",
   "private": true,
-  "description": "React app to generate QR codes for URLs, text, and contact information.",
+  "description": "A React QR Code Generator for URLs, Text, and Contact Info using Tailwind CSS.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build": "vite build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -17,19 +16,10 @@
     "react-scripts": "5.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.11"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.1"
   },
-  "keywords": [
-    "qr",
-    "react",
-    "qr-code",
-    "generator",
-    "vcard"
-  ],
-  "author": "Your Name",
-  "license": "MIT",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -41,5 +31,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "react",
+    "qr-code",
+    "tailwind",
+    "vcard",
+    "qr",
+    "generator"
+  ],
+  "author": "Virbhadra Khobare",
+  "license": "MIT"
 }
