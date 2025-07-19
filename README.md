@@ -19,7 +19,7 @@ A modern, responsive QR Code Generator built with **React** and **Tailwind CSS**
 
 ## 📸 Live Demo
 
-> 🔗 [Live-link](#https://qr-code-generator-weld-eta.vercel.app/)
+> 🔗 [View Live Site](https://qr-code-generator-weld-eta.vercel.app/)
 
 ---
 
@@ -56,6 +56,7 @@ A modern, responsive QR Code Generator built with **React** and **Tailwind CSS**
 This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
-- Virbhadra Khobare
-- GitHub | Portfolio
----
+
+- **Virbhadra Khobare**
+- [GitHub](https://github.com/virabhadrakhobare)
+
