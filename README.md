@@ -19,7 +19,7 @@ A modern, responsive QR Code Generator built with **React** and **Tailwind CSS**
 
 ## 📸 Live Demo
 
-> 🔗 [Coming Soon](#) — Deploy this on **Netlify** or **GitHub Pages**
+> 🔗 [Live-link](#https://qr-code-generator-weld-eta.vercel.app/)
 
 ---
 
